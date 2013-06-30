@@ -1,11 +1,0 @@
----
-layout: post
-title: Careful Twitter — remember what happened to MySpace and Digg
-url: http://gigaom.com/2012/06/30/careful-twitter-remember-what-happened-to-myspace-and-digg/
-source: http://gigaom.com/2012/06/30/careful-twitter-remember-what-happened-to-myspace-and-digg/
-domain: gigaom.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Twitter sent some shock waves through the technology community with a blog post on Friday that talked about its plans for the future, and suggested that those plans don’t necessarily involve third-party services and apps.Although the company phrased its statement as a move designed to standardize the experience for Twitter users, developers and others in the broader Twitter ecosystem clearly took the post as a warning shot across the bow — especially since the company simultaneously shut down a cross-posting partnership it had with LinkedIn . It seems clear that Twitter wants to control the network as tightly as possible so that it can monetize it more easily, but doing so also comes with substantial risks.In his blog post, consumer product manager Michael Sippey talked a lot about the introduction of features such as “expanded tweets,” which show more information from providers like GigaOM and the New York Times when a link is included in a tweet.He said the company wants to broaden that program to more publishers, as well as giving them tools to display expanded tweets and other features on their sites — but he also made it obvious that developers who stray outside of the lines are taking a big risk: These comments set off warning bells for a number of developers, who said they were concerned that Twitter was going to crack down on any third-party app or service.</p>
-<center><p><a href="http://gigaom.com/2012/06/30/careful-twitter-remember-what-happened-to-myspace-and-digg/" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
