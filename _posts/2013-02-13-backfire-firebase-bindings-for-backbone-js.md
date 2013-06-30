@@ -1,11 +1,0 @@
----
-layout: post
-title: BackFire: Firebase bindings for Backbone js
-url: https://www.firebase.com/blog/2013-01-29-backfire-firebase-bindings-for-backbonejs.html
-source: https://www.firebase.com/blog/2013-01-29-backfire-firebase-bindings-for-backbonejs.html
-domain: www.firebase.com
-image: http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png
----
-{% include JB/setup %}<p>Whenever we talk of server-less applications (and we talk about them a lot here at Firebase!), Backbone.js is one the first terms to come to mind.Backbone is a framework that lets you structure your JavaScript application in an elegant manner, by separating the data in your application from how it is rendered.I like to think of it like MVC for JavaScript.</p>
-<center><p><a href="https://www.firebase.com/blog/2013-01-29-backfire-firebase-bindings-for-backbonejs.html" style='padding:25px; font-sze:18px; font-weight: bold;'>Read Full Story</a></p></center>
-
